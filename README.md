@@ -20,6 +20,10 @@
   Currently, I work at <a href="https://skytechnosa.com/" target="_blank">Skytechnosa</a>.
 </p>
 
+- 🔭 I’m currently working on Web APP connecting with Zabbix and Fortigate API
+- 🌱 I’m currently learning Flutter
+- ⚡ Fun fact: Keep Calm and Rollback!
+
 
 <!-- ### Hi there 👋 -->
 
