@@ -14,13 +14,12 @@
 
 <br />
 
-<div>
-  I'm a full stack developer 🚀 from Ecuador 
-</div>
+<p>
+  I'm a full stack developer 🚀 from Ecuador
+  <br />
+  Currently, I work at <a href="https://skytechnosa.com/" target="_blank">Skytechnosa</a>.
+</p>
 
-<div>
-  work at **[Skytechnosa](https://skytechnosa.com/)**.
- </div>
 
 <!-- ### Hi there 👋 -->
 
